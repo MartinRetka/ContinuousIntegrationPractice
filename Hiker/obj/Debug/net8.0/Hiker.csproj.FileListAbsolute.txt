@@ -1,0 +1,15 @@
+c:\Development\ContinuousIntegrationPractice\Hiker\bin\Debug\net8.0\Hiker.exe
+c:\Development\ContinuousIntegrationPractice\Hiker\bin\Debug\net8.0\Hiker.deps.json
+c:\Development\ContinuousIntegrationPractice\Hiker\bin\Debug\net8.0\Hiker.runtimeconfig.json
+c:\Development\ContinuousIntegrationPractice\Hiker\bin\Debug\net8.0\Hiker.dll
+c:\Development\ContinuousIntegrationPractice\Hiker\bin\Debug\net8.0\Hiker.pdb
+c:\Development\ContinuousIntegrationPractice\Hiker\obj\Debug\net8.0\Hiker.GeneratedMSBuildEditorConfig.editorconfig
+c:\Development\ContinuousIntegrationPractice\Hiker\obj\Debug\net8.0\Hiker.AssemblyInfoInputs.cache
+c:\Development\ContinuousIntegrationPractice\Hiker\obj\Debug\net8.0\Hiker.AssemblyInfo.cs
+c:\Development\ContinuousIntegrationPractice\Hiker\obj\Debug\net8.0\Hiker.csproj.CoreCompileInputs.cache
+c:\Development\ContinuousIntegrationPractice\Hiker\obj\Debug\net8.0\Hiker.sourcelink.json
+c:\Development\ContinuousIntegrationPractice\Hiker\obj\Debug\net8.0\Hiker.dll
+c:\Development\ContinuousIntegrationPractice\Hiker\obj\Debug\net8.0\refint\Hiker.dll
+c:\Development\ContinuousIntegrationPractice\Hiker\obj\Debug\net8.0\Hiker.pdb
+c:\Development\ContinuousIntegrationPractice\Hiker\obj\Debug\net8.0\Hiker.genruntimeconfig.cache
+c:\Development\ContinuousIntegrationPractice\Hiker\obj\Debug\net8.0\ref\Hiker.dll
